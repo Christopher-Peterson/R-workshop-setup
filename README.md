@@ -95,9 +95,9 @@ Restart Rstudio.
 
 From the [main
 page](https://github.com/Christopher-Peterson/R-workshop-setup) of this
-GitHub repository, click the green \[\underline{\downarrow}\] **Code**
-button in the upper corner. From the drop-down menu, click **Use SSH**,
-then copy the text in the box.
+GitHub repository, click the green **⤓Code** button in the upper corner.
+From the drop-down menu, click **Use SSH**, then copy the text in the
+box.
 
 In RStudio, click File -\> New Project -\> Version Control -\> Git.
 Paste what you copied (Ctrl+V or Cmd+V) into the first text box; feel
