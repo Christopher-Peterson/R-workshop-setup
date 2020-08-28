@@ -95,7 +95,7 @@ Restart Rstudio.
 
 From the [main
 page](https://github.com/Christopher-Peterson/R-workshop-setup) of this
-GitHub repository, click the green **Code \(\underline{\downarrow}\)**
+GitHub repository, click the green \[\underline{\downarrow}\] **Code**
 button in the upper corner. From the drop-down menu, click **Use SSH**,
 then copy the text in the box.
 
